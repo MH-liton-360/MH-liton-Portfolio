@@ -1,22 +1,22 @@
+import Marquee from "react-fast-marquee";
 
 const Banner = () => {
     return (
         <div>
-            <div className="hero bg-base-200 min-h-screen">
-                <div className="hero-content flex-col lg:flex-row-reverse">
-                    <img
-                        src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
-                        className="max-w-sm rounded-lg shadow-2xl"
-                    />
-                    <div>
-                        <h1 className="text-5xl font-bold">Box Office News!</h1>
-                        <p className="py-6">
-                            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-                            quasi. In deleniti eaque aut repudiandae et a id nisi.
-                        </p>
-                        <button className="btn btn-primary">Get Started</button>
-                    </div>
+            <div className="py-40 px-8">
+                <h1 className="text-5xl font-bold font-serif">Hi! I'M LITON MIA</h1>
+                <p className="py-6">
+                    I'm Crafting Digital Experiences That Make a Lasting Impact.
+                </p>
+                <div className="mb-4 w-42 overflow-hidden">
+                    <Marquee gradient={false} speed={50} pauseOnHover>
+                        <span className="mx-1">Frontend Developer</span>
+                        <span className="mx-1">Backend Developer</span>
+                        <span className="mx-1">Mern Developer</span>
+                        <span className="mx-1">FullStack Developer</span>
+                    </Marquee>
                 </div>
+                <button className="btn btn-primary">Let's Talk</button>
             </div>
         </div>
     );

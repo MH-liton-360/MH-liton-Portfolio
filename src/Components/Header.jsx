@@ -1,4 +1,6 @@
 import logo from '../assets/MH.png';
+import { GoDownload } from "react-icons/go";
+
 
 const Header = () => {
     const navItems = [
@@ -18,7 +20,6 @@ const Header = () => {
                         alt="Logo"
                     />
                 </div>
-
                 <div className="navbar-center hidden lg:flex">
                     <ul className="flex items-center bg-gray-800 p-2 rounded-full text-white">
                         {navItems.map(({ name, path }) => (
@@ -34,7 +35,9 @@ const Header = () => {
                 </div>
 
                 <div className="navbar-end">
-                    <a className="btn btn-outline">Resume</a>
+                    <a className="btn btn-outline">
+                        <GoDownload></GoDownload>
+                        RESUME</a>
                 </div>
             </div>
         </div>
