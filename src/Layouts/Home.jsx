@@ -1,8 +1,10 @@
 import About from "../Components/About";
 import Banner from "../Components/Banner";
 import Contact from "../Components/Contact";
+import Footer from "../Components/Footer";
 import Header from "../Components/Header";
 import Project from "../Components/Project";
+import Provider from "../Components/Provider";
 
 
 const Home = () => {
@@ -17,6 +19,8 @@ const Home = () => {
                 <About />
                 <Project />
                 <Contact />
+                <Footer></Footer>
+                <Provider></Provider>
             </div>
         </>
     );
