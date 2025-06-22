@@ -7,6 +7,7 @@ import Project from "../Components/Project";
 import Provider from "../Components/Provider";
 
 
+
 const Home = () => {
     return (
         <>

@@ -16,5 +16,4 @@ const Provider = () => {
         </footer>
     );
 };
-
 export default Provider;
