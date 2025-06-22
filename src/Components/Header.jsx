@@ -35,9 +35,8 @@ const Header = () => {
                 </div>
 
                 <div className="navbar-end">
-                    <a className="btn btn-outline">
-                        <GoDownload></GoDownload>
-                        RESUME</a>
+                    <a href='/public/Resume_MH_liton.pdf' className="btn btn-outline">
+                        <GoDownload className="h-5 w-5"></GoDownload>GET RESUME</a>
                 </div>
             </div>
         </div>
