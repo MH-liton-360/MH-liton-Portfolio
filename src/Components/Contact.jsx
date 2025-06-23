@@ -26,7 +26,6 @@ const Contact = () => {
                         Email
                     </button>
                 </a>
-
                 <a href="https://wa.me/+8801835635138" target="_blank" rel="noopener noreferrer">
                     <button className="btn btn-outline flex items-center gap-2">
                         <FaWhatsapp className="h-5 w-5" />
