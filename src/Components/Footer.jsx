@@ -19,7 +19,7 @@ const Footer = () => {
                 </div>
                 <div>
                     <p className="mb-2">Location: Dhaka, Bangladesh</p>
-                    <p className="mb-2">Phone: +8801758-908138</p>
+                    <p className="mb-2">Phone: +8801898915012</p>
                     <p className="mb-2">Email: liton72524nk@gmail.com</p>
                     <div className="flex gap-3 text-xl">
                         <a href="https://www.facebook.com/MH.liton.360" className="hover:text-teal-400"><FaFacebookF /></a>

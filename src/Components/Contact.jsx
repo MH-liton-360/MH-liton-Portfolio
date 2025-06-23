@@ -23,14 +23,14 @@ const Contact = () => {
 
             {/* Buttons Section */}
             <div className='flex flex-col md:flex-row justify-center items-center gap-4 p-2'>
-                <a href="mailto:example@example.com">
+                <a href="liton72524nk@gmail.com" target="_blank" rel="noopener noreferrer">
                     <button className="btn btn-outline flex items-center gap-2">
                         <MdOutlineMarkEmailUnread className="h-5 w-5" />
                         Email
                     </button>
                 </a>
 
-                <a href="https://wa.me/yourwhatsappnumber">
+                <a href="https://wa.me/+8801835635138" target="_blank" rel="noopener noreferrer">
                     <button className="btn btn-outline flex items-center gap-2">
                         <FaWhatsapp className="h-5 w-5" />
                         WhatsApp

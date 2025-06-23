@@ -27,7 +27,7 @@ const Project = () => {
 
                                 </div>
                             </h2>
-                            <p>A full-stack service-sharing platform built with the MERN stack that allows users to add, manage, and book local services with real-time status updates. It supports user authentication, role-based dashboards, and seamless service interaction between providers and customers.</p>
+                            <p>Ctg Market Service Sharing Web Application is a user-friendly platform where users can add, update, and manage their own services while browsing and booking services from others. It features secure authentication  role-based dashboards, real-time booking updates. </p>
 
                             <div className="justify-start">
                                 <div className="badge badge-outline">React</div>
@@ -56,7 +56,7 @@ const Project = () => {
 
                                 </div>
                             </h2>
-                            <p>Empowers people to easily donate through web and mobile platforms to support flood relief efforts across Bangladesh, ensuring transparent fund collection and efficient distribution of aid to affected communities.</p>
+                            <p>Donate Bangladesh is a donation-based web platform designed to support urgent humanitarian causes across the country. Users can contribute funds to relief efforts for injured individuals in social movements. Built for transparency and impact, the system tracks donations </p>
 
                             <div className="justify-start">
                                 <div className="badge badge-outline">React</div>
@@ -85,7 +85,7 @@ const Project = () => {
 
                                 </div>
                             </h2>
-                            <p>A full-stack service-sharing platform built with the MERN stack that allows users to add, manage, and book local services with real-time status updates. It supports user authentication, role-based dashboards, and seamless service interaction between providers and customers.</p>
+                            <p>E-Matrimony platform enabling users to create, browse, and manage detailed biodata profiles with secure authentication and premium features.Dashboards for profile management,contact approvals,and success stories.The system sorting, payments for premium access.</p>
 
                             <div className="justify-start">
                                 <div className="badge badge-outline">React</div>
