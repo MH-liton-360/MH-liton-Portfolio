@@ -5,7 +5,7 @@ import { RxDiscordLogo } from "react-icons/rx";
 const Banner = () => {
     return (
         <div>
-            <div className="py-40 px-8">
+            <div className="py-28 px-8">
                 <h1 className="text-5xl font-bold font-serif">Hi! I'M LITON MIA</h1>
                 <p className="py-6">
                     I'm Crafting Digital Experiences that make a lasting impact.

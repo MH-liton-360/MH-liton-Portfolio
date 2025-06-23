@@ -4,7 +4,7 @@ import { MdOutlineMarkEmailUnread } from "react-icons/md";
 
 const Contact = () => {
     return (
-        <section id='contact' className="py-16 px-4 md:py-24">
+        <section id='contact' className="p-10 px-4 md:py-24">
             <div className="flex justify-center items-center">
                 <img
                     src={contact_logo}

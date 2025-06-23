@@ -1,7 +1,7 @@
 import profile from '../assets/liton.jpg'
 
 const About = () => (
-    <section id="about" className='py-48 mb-12'>
+    <section id="about" className='pb-16 lg:mb-12'>
         <div className='grid grid-cols-1 md:grid-cols-2 gap-16 w-auto lg:grid-cols-2 justify-between items-center px-8'>
             <div>
                 <img

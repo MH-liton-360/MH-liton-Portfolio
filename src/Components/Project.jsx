@@ -5,7 +5,7 @@ import { FaLink } from "react-icons/fa";
 
 const Project = () => {
     return (
-        <section id="project" className="mb-28 px-5 md:px-8">
+        <section id="project" className="mb-12 px-5 md:px-8 lg:mb-5">
             <div>
                 <h1 className="text-2xl font-semibold pb-5">LATEST PROJECTS</h1>
             </div>
