@@ -41,7 +41,7 @@ const Header = () => {
 
                 {/* Resume Button & Mobile Toggle */}
                 <div className="navbar-end gap-3">
-                    <a href='/public/Resume_MH_liton.pdf' className="btn btn-outline hidden md:flex">
+                    <a href='/Resume_MH_liton.pdf' className="btn btn-outline hidden md:flex">
                         <GoDownload className="h-5 w-5" /> GET RESUME
                     </a>
 
@@ -70,7 +70,7 @@ const Header = () => {
                             </a>
                         ))}
                         <a
-                            href='/public/Resume_MH_liton.pdf'
+                            href='/Resume_MH_liton.pdf'
                             className="btn btn-outline mt-2 flex items-center gap-2 justify-center"
                         >
                             <GoDownload className="h-5 w-5" /> GET RESUME
