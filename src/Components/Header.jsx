@@ -24,7 +24,6 @@ const Header = () => {
                         alt="Logo"
                     />
                 </div>
-
                 {/* Desktop Menu */}
                 <div className="navbar-center hidden lg:flex">
                     <ul className="flex items-center bg-gray-800 p-2 rounded-full text-white">
